@@ -1,0 +1,39 @@
+[submodule "cpp_modules"]
+	path = cpp_modules
+	url = https://github.com/enekomb/cpp_modules
+[submodule "ft_printf"]
+	path = ft_printf
+	url = https://github.com/enekomb/ft_printf
+[submodule "ft_irc"]
+	path = ft_irc
+	url = https://github.com/enekomb/ft_irc
+[submodule "minishell"]
+	path = minishell
+	url = https://github.com/enekomb/minishell
+[submodule "cub3d"]
+	path = cub3d
+	url = https://github.com/enekomb/cub3d
+[submodule "so_long"]
+	path = so_long
+	url = https://github.com/enekomb/so_long
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/enekomb/push_swap
+[submodule "minitalk"]
+	path = minitalk
+	url = https://github.com/enekomb/minitalk
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/enekomb/get_next_line
+[submodule "libft"]
+	path = libft
+	url = https://github.com/enekomb/libft
+[submodule "born2beroot"]
+	path = born2beroot
+	url = https://github.com/enekomb/born2beroot
+[submodule "c_piscine"]
+	path = c_piscine
+	url = https://github.com/enekomb/c_piscine
+[submodule "discovery_piscine"]
+	path = discovery_piscine
+	url = https://github.com/enekomb/discovery_piscine
