@@ -37,3 +37,9 @@
 [submodule "discovery_piscine"]
 	path = discovery_piscine
 	url = https://github.com/enekomb/discovery_piscine
+[submodule "philosophers"]
+	path = philosophers
+	url = https://github.com/enekomb/philosophers
+[submodule "ft_transcendence"]
+	path = ft_transcendence
+	url = https://github.com/enekomb/ft_transcendence
