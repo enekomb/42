@@ -43,3 +43,6 @@
 [submodule "ft_transcendence"]
 	path = ft_transcendence
 	url = https://github.com/enekomb/ft_transcendence
+[submodule "inception"]
+	path = inception
+	url = https://github.com/enekomb/inception
